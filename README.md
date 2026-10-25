@@ -158,6 +158,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). One repo per pull request, plain words, 
 ## About
 
 Maintained by [@devanasolver](https://github.com/devanasolver), who also builds [AIRankWP](https://airankwp.com), a WordPress plugin for AI-search visibility. Listings follow the rules in CONTRIBUTING, not ownership.
+
 ## Support
 
 If you find this project useful, [buy me a coffee](https://buymeacoffee.com/isaac49).
