@@ -398,5 +398,14 @@
     "license": "MIT",
     "verified": "2026-10-17",
     "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "sinadwm1/write-natural",
+    "category": "write",
+    "description": "Persian and English writing skill for faithful revision and anti-slop editing, with optional offline diagnostics; no paid keys required by the skill (by the author).",
+    "license": "MIT",
+    "verified": "2026-10-26",
+    "last_commit": "2026-10-25"
   }
 ]
+
