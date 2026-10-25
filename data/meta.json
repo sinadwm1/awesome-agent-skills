@@ -1,72 +1,72 @@
 {
-  "categories": [
-    {
-      "id": "ref",
-      "title": "Official and reference skills",
-      "anchor": "official-and-reference-skills",
-      "blurb": "Start here to see how skills are written and shared."
-    },
-    {
-      "id": "coll",
-      "title": "Big collections and registries",
-      "anchor": "big-collections-and-registries",
-      "blurb": "Many skills in one repo. Pick what you need. Do not install everything."
-    },
-    {
-      "id": "design",
-      "title": "Design, diagrams and slides",
-      "anchor": "design-diagrams-and-slides",
-      "blurb": "Skills that produce visuals: UI, diagrams, illustrations, decks and social images."
-    },
-    {
-      "id": "mkt",
-      "title": "Marketing and SEO",
-      "anchor": "marketing-and-seo",
-      "blurb": "Skills for search, copy, social and growth."
-    },
-    {
-      "id": "prod",
-      "title": "Product management",
-      "anchor": "product-management",
-      "blurb": "Skills for product discovery, strategy and launch."
-    },
-    {
-      "id": "know",
-      "title": "Research and knowledge",
-      "anchor": "research-and-knowledge",
-      "blurb": "Skills that gather, summarize and organize information."
-    },
-    {
-      "id": "write",
-      "title": "Writing",
-      "anchor": "writing",
-      "blurb": "Skills for prose and fiction."
-    },
-    {
-      "id": "flow",
-      "title": "Planning and agent workflow",
-      "anchor": "planning-and-agent-workflow",
-      "blurb": "Skills that change how the agent plans, answers or decides."
-    },
-    {
-      "id": "video",
-      "title": "Video",
-      "anchor": "video",
-      "blurb": "Skills for making videos."
-    },
-    {
-      "id": "auto",
-      "title": "Browser, Office and workspace automation",
-      "anchor": "browser-office-and-workspace-automation",
-      "blurb": "Let an agent drive a browser, Office files or Google Workspace."
-    },
-    {
-      "id": "lists",
-      "title": "Other awesome lists",
-      "anchor": "other-awesome-lists",
-      "blurb": "Related lists. This one does not try to replace them."
-    }
-  ],
-  "header": "<h1 align=\"center\">Awesome Agent Skills</h1>\n\n<p align=\"center\"><a href=\"https://airankwp.com\"><img src=\"assets/banner.png\" alt=\"Awesome Agent Skills. Click here to check how AI sees your site with AIRankWP.\" width=\"100%\"></a></p>\n\n<p align=\"center\">\n<a href=\"https://awesome.re\"><img src=\"https://awesome.re/badge.svg\" alt=\"Awesome\"></a>\n<img src=\"https://img.shields.io/badge/PRs-welcome-brightgreen\" alt=\"PRs welcome\">\n<img src=\"https://img.shields.io/badge/license-CC0--1.0-blue\" alt=\"License CC0 1.0\">\n<a href=\"https://github.com/devanasolver/awesome-agent-skills/commits/main\"><img src=\"https://img.shields.io/github/last-commit/devanasolver/awesome-agent-skills\" alt=\"Last commit\"></a>\n</p>\n\n<p align=\"center\">\n<a href=\"https://github.com/devanasolver\"><img src=\"https://img.shields.io/badge/Follow-@devanasolver-181717?style=for-the-badge&logo=github\" alt=\"Follow on GitHub\"></a>\n<a href=\"https://github.com/devanasolver/awesome-agent-skills/stargazers\"><img src=\"https://img.shields.io/github/stars/devanasolver/awesome-agent-skills?style=for-the-badge&logo=github&label=Star%20this%20list\" alt=\"Star this list\"></a>\n<a href=\"https://airankwp.com\"><img src=\"https://img.shields.io/badge/Free%20AI%20audit-airankwp.com-4638c8?style=for-the-badge\" alt=\"Free AI audit at airankwp.com\"></a>\n</p>\n\n> Agent skills (SKILL.md style packs) for AI coding agents, grouped by what you want to get done. Covers Claude Code, Codex, Gemini CLI, Google Antigravity, Cursor, Copilot and others.\n\nA **skill** is a folder with a SKILL.md file and optional scripts that an agent loads when a task matches. The format started with Claude but several other agents now read the same kind of folder. Support differs by agent, so each entry only says which agents the repo itself names.\n\n**Rules of this list:** every repo exists, is public, is not archived and has a license or a clear note. One plain sentence each. No copied text from other lists. Repos are listed on merit, including the maintainer's own (marked). Checked 2026-10-17. See [CONTRIBUTING.md](CONTRIBUTING.md).\n",
-  "footer": "## How to choose\n\n- **Check the licence and the scripts.** A skill can run code on your machine. Read the SKILL.md and any scripts before you install, and prefer repos you can audit.\n- **Install few.** Skills overlap. Too many skills crowd the agent's context.\n- **Check your agent.** Only some repos name Antigravity, Codex or Gemini CLI. If yours is not named, test with one small task first.\n- **Young repos change fast.** Look at the last commit and open issues.\n- **Counts like \"2,600+ skills\" are the authors' own claims.** We did not test each skill.\n\n## Contributing\n\nSee [CONTRIBUTING.md](CONTRIBUTING.md). One repo per pull request, plain words, real repos only.\n\n## About\n\nMaintained by [@devanasolver](https://github.com/devanasolver), who also builds [AIRankWP](https://airankwp.com), a WordPress plugin for AI-search visibility. Listings follow the rules in CONTRIBUTING, not ownership.\n## Support\n\nIf you find this project useful, [buy me a coffee](https://buymeacoffee.com/isaac49).\n"
+ "categories": [
+  {
+   "id": "ref",
+   "title": "Official and reference skills",
+   "anchor": "official-and-reference-skills",
+   "blurb": "Start here to see how skills are written and shared."
+  },
+  {
+   "id": "coll",
+   "title": "Big collections and registries",
+   "anchor": "big-collections-and-registries",
+   "blurb": "Many skills in one repo. Pick what you need. Do not install everything."
+  },
+  {
+   "id": "design",
+   "title": "Design, diagrams and slides",
+   "anchor": "design-diagrams-and-slides",
+   "blurb": "Skills that produce visuals: UI, diagrams, illustrations, decks and social images."
+  },
+  {
+   "id": "mkt",
+   "title": "Marketing and SEO",
+   "anchor": "marketing-and-seo",
+   "blurb": "Skills for search, copy, social and growth."
+  },
+  {
+   "id": "prod",
+   "title": "Product management",
+   "anchor": "product-management",
+   "blurb": "Skills for product discovery, strategy and launch."
+  },
+  {
+   "id": "know",
+   "title": "Research and knowledge",
+   "anchor": "research-and-knowledge",
+   "blurb": "Skills that gather, summarize and organize information."
+  },
+  {
+   "id": "write",
+   "title": "Writing",
+   "anchor": "writing",
+   "blurb": "Skills for prose and fiction."
+  },
+  {
+   "id": "flow",
+   "title": "Planning and agent workflow",
+   "anchor": "planning-and-agent-workflow",
+   "blurb": "Skills that change how the agent plans, answers or decides."
+  },
+  {
+   "id": "video",
+   "title": "Video",
+   "anchor": "video",
+   "blurb": "Skills for making videos."
+  },
+  {
+   "id": "auto",
+   "title": "Browser, Office and workspace automation",
+   "anchor": "browser-office-and-workspace-automation",
+   "blurb": "Let an agent drive a browser, Office files or Google Workspace."
+  },
+  {
+   "id": "lists",
+   "title": "Other awesome lists",
+   "anchor": "other-awesome-lists",
+   "blurb": "Related lists. This one does not try to replace them."
+  }
+ ],
+ "header": "<h1 align=\"center\">Awesome Agent Skills</h1>\n\n<p align=\"center\"><a href=\"https://airankwp.com\"><img src=\"assets/banner.png\" alt=\"Awesome Agent Skills. Click here to check how AI sees your site with AIRankWP.\" width=\"100%\"></a></p>\n\n<p align=\"center\">\n<a href=\"https://awesome.re\"><img src=\"https://awesome.re/badge.svg\" alt=\"Awesome\"></a>\n<img src=\"https://img.shields.io/badge/PRs-welcome-brightgreen\" alt=\"PRs welcome\">\n<img src=\"https://img.shields.io/badge/license-CC0--1.0-blue\" alt=\"License CC0 1.0\">\n<a href=\"https://github.com/devanasolver/awesome-agent-skills/commits/main\"><img src=\"https://img.shields.io/github/last-commit/devanasolver/awesome-agent-skills\" alt=\"Last commit\"></a>\n</p>\n\n<p align=\"center\">\n<a href=\"https://github.com/devanasolver\"><img src=\"https://img.shields.io/badge/Follow-@devanasolver-181717?style=for-the-badge&logo=github\" alt=\"Follow on GitHub\"></a>\n<a href=\"https://github.com/devanasolver/awesome-agent-skills/stargazers\"><img src=\"https://img.shields.io/github/stars/devanasolver/awesome-agent-skills?style=for-the-badge&logo=github&label=Star%20this%20list\" alt=\"Star this list\"></a>\n<a href=\"https://airankwp.com\"><img src=\"https://img.shields.io/badge/Free%20AI%20audit-airankwp.com-4638c8?style=for-the-badge\" alt=\"Free AI audit at airankwp.com\"></a>\n</p>\n\n> Agent skills (SKILL.md style packs) for AI coding agents, grouped by what you want to get done. Covers Claude Code, Codex, Gemini CLI, Google Antigravity, Cursor, Copilot and others.\n\nA **skill** is a folder with a SKILL.md file and optional scripts that an agent loads when a task matches. The format started with Claude but several other agents now read the same kind of folder. Support differs by agent, so each entry only says which agents the repo itself names.\n\n**Rules of this list:** every repo exists, is public, is not archived and has a license or a clear note. One plain sentence each. No copied text from other lists. Repos are listed on merit, including the maintainer's own (marked). Checked 2026-10-17. See [CONTRIBUTING.md](CONTRIBUTING.md).\n",
+ "footer": "## How to choose\n\n- **Check the licence and the scripts.** A skill can run code on your machine. Read the SKILL.md and any scripts before you install, and prefer repos you can audit.\n- **Install few.** Skills overlap. Too many skills crowd the agent's context.\n- **Check your agent.** Only some repos name Antigravity, Codex or Gemini CLI. If yours is not named, test with one small task first.\n- **Young repos change fast.** Look at the last commit and open issues.\n- **Counts like \"2,600+ skills\" are the authors' own claims.** We did not test each skill.\n\n## Contributing\n\nSee [CONTRIBUTING.md](CONTRIBUTING.md). One repo per pull request, plain words, real repos only.\n\n## About\n\nMaintained by [@devanasolver](https://github.com/devanasolver), who also builds [AIRankWP](https://airankwp.com), a WordPress plugin for AI-search visibility. Listings follow the rules in CONTRIBUTING, not ownership.\n\n## Support\n\nIf you find this project useful, [buy me a coffee](https://buymeacoffee.com/isaac49).\n"
 }
