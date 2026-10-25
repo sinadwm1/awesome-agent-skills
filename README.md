@@ -104,6 +104,7 @@ Skills that gather, summarize and organize information.
 Skills for prose and fiction.
 
 - [blader/humanizer](https://github.com/blader/humanizer) ![stars](https://img.shields.io/github/stars/blader/humanizer?style=flat&label=%E2%98%85) - Skill that removes common signs of AI-written text. _(MIT)_
+- [sinadwm1/write-natural](https://github.com/sinadwm1/write-natural) ![stars](https://img.shields.io/github/stars/sinadwm1/write-natural?style=flat&label=%E2%98%85) - Persian and English writing skill for faithful revision and anti-slop editing, with optional offline diagnostics; no paid keys required by the skill (by the author). _(MIT)_
 - [zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode) ![stars](https://img.shields.io/github/stars/zenstory-ai/oh-story-claudecode?style=flat&label=%E2%98%85) - 13 skills for writing long web novels, with continuity tracking. Docs mix Chinese and English. _(MIT)_
 
 ## Planning and agent workflow
@@ -157,7 +158,3 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). One repo per pull request, plain words, 
 ## About
 
 Maintained by [@devanasolver](https://github.com/devanasolver), who also builds [AIRankWP](https://airankwp.com), a WordPress plugin for AI-search visibility. Listings follow the rules in CONTRIBUTING, not ownership.
-
-## Support
-
-If you find this project useful, [buy me a coffee](https://buymeacoffee.com/isaac49).
